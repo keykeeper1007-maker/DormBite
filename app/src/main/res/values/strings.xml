@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">DormBite</string>
+    <string name="nav_discover">Discover</string>
+    <string name="nav_pantry">Fridge Match</string>
+    <string name="nav_saved">Saved &amp; List</string>
+    <string name="search_placeholder">Search oats, eggs, ramen, beans…</string>
+    <string name="hero_badge">TONIGHT\'S QUICK PICK</string>
+    <string name="cook_now">Cook in %1$d min</string>
+    <string name="per_serving">$%1$.2f / serving</string>
+    <string name="minutes_short">%1$d min</string>
+    <string name="protein_short">%1$dg protein</string>
+    <string name="calories_short">%1$d kcal</string>
+    <string name="action_back">Back</string>
+    <string name="action_favorite">Toggle favorite</string>
+    <string name="action_clear_filters">Clear filters</string>
+    <string name="empty_recipes_title">No meals match those filters</string>
+    <string name="empty_recipes_subtitle">Try clearing a filter or searching for a staple like eggs or beans.</string>
+    <string name="pantry_title">What\'s in your dorm?</string>
+    <string name="pantry_subtitle">Tap what you already have to unlock meals you can make right now.</string>
+    <string name="saved_meals_tab">Saved Meals</string>
+    <string name="grocery_list_tab">Grocery List</string>
+    <string name="empty_saved_title">No saved meals yet</string>
+    <string name="empty_saved_subtitle">Tap the heart on any 10-minute recipe to keep your favorites handy for late-night study sessions.</string>
+    <string name="empty_grocery_title">Your grocery list is clear</string>
+    <string name="empty_grocery_subtitle">Open any recipe and tap \"Add Missing to List\" to build a budget shopping run.</string>
+</resources>
